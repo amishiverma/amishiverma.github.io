@@ -1,0 +1,25 @@
+.project {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background: white;
+}
+
+.project img {
+  margin-top: 10px;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 5px;
+}
+
+.project a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}
