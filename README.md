@@ -19,7 +19,7 @@ I enjoy creating **intuitive, visually engaging designs** and building functiona
 ### 1. SheGuard App
 - **Description:** Offline-first women’s safety app using React and Gemma AI.  
 - **Features:** SOS button, Dark Mode, Emergency Contacts  
-- **Repo:** [SheGuard App](https://github.com/username/sheguard)  
+- **Repo:** [SheGuard App](https://github.com/amishiverma/sheguard-offline-ai-safety-app)
 
 
 ---
@@ -27,15 +27,14 @@ I enjoy creating **intuitive, visually engaging designs** and building functiona
 ### 2. Chatbot in C
 - **Description:** Console-based chatbot implemented in C.  
 - **Features:** Responds to common queries  
-- **Repo:** [Chatbot in C](https://github.com/username/chatbot-c)  
+- **Repo:** [Chatbot in C](https://github.com/amishiverma/C-Based-Chatbot-mini-Project-)
 
 
 ---
 
 ### 3. Figma UI/UX Designs
 - **Description:** Travel app, Hospital Dashboard, Cultural Website prototypes.  
-- **Repo:** [Figma UI/UX Designs](https://github.com/username/uiux-designs)  
-
+- **Repo:** [Figma UI/UX Designs](https://github.com/amishiverma/Figma-Designs)
 
 
 ---
